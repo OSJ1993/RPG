@@ -2233,3 +2233,4 @@ Received Import Request.
 Start importing Assets/Tiled/Forest_A5.png using Guid(c71548e97ccb2aa4491e2b8a07eb7b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3557e1fe129066ef80b1845366e136') in 0.283562 seconds 
   Import took 0.287458 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
